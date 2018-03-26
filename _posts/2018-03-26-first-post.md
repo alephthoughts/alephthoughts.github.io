@@ -2,7 +2,7 @@
 layout: post
 title: What's in the name?
 subtitle: Why this blog is called alephthoughts?
-image: /img/shakespeare.jpeg
+image: /img/shakespeare.jpg
 ---
 
 >"What's in a name? that which we call a rose
