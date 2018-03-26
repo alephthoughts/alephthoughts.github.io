@@ -1,16 +1,14 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: Hey There!
+subtitle: I am Abhishek Sharma.
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+As an analytics consultant, I help companies create data solutions that create an impact.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+### My Approach
 
-What else do you need?
+With a background in Computer Science, I bring more than seven years of experience designing and implementing data solutions. I truly believe in the potential of data driven applications and their capability to transform the world.
 
-### my history
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+### End-to-End Design Process
+A data transformation initiative takes significant time commitment and financial resources but often with unsure results. By using a well defined process to understand the business needs, I try to implement a drive-train approach to implementing data transformation projects. Using latest tools and methodolgies, it is possible to uncover valuable insights that actually help the decision makers.
