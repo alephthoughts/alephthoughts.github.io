@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What's in the name?
-subtitle: Why this blog is called alephthoughts?
+subtitle: Why is this blog called alephthoughts?
 image: /img/shakespeare.jpg
 ---
 
