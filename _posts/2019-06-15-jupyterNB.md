@@ -36,7 +36,9 @@ You can install hide_code using following commands:
 You can export your notebooks to desired format using the following commands:
 To HTML <br>
 `jupyter nbconvert --to hide_code_html notebook_to_convert.ipynb`<br>
+To PDF <br>
 `jupyter nbconvert --to hide_code_pdf notebook_to_convert.ipynb`<br>
+To LaTeX<br>
 `jupyter nbconvert --to hide_code_latexpdf notebook_to_convert.ipynb`<br>
 
 #### [Tabulate](https://bitbucket.org/astanin/python-tabulate/src/master/)
