@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Publication ready Jupyter Notebooks
-bigimg: /img/jupyter.png
 image: /img/python.png
 tags: [dev, data science, jupyter, python]
 ---
