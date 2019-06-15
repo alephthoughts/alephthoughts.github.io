@@ -4,11 +4,15 @@ title: Hey There!
 subtitle: I am Abhishek Sharma.
 ---
 
-As an analytics consultant, I help companies create data solutions that create an impact.
+I fix things!
 
-### My Approach
+### Goals
 
-With a background in Computer Science, I bring more than seven years of experience designing and implementing data solutions. I truly believe in the potential of data driven applications and their capability to transform the world.
+##### Short-term Goal 
+Create tools with data at its heart to diagnose and cure the world's ills and enable people to find and solve their own problems.
+##### Long Term Goals
+Reform the society to create a world of equal opportunity.
+##### Stretch Goal
+Fall in Love.
 
-### End-to-End Design Process
-A data transformation initiative takes significant time commitment and financial resources but often with unsure results. By using a well defined process to understand the business needs, I try to implement a drive-train approach to implementing data transformation projects. Using latest tools and methodolgies, it is possible to uncover valuable insights that actually help the decision makers.
+
