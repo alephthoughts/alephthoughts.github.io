@@ -33,7 +33,7 @@ You can install hide_code using following commands:
 `jupyter nbextension enable --py hide_code`
 `jupyter serverextension enable --py hide_code`
 
-You can export your notebooks to desired format using the following commands:
+You can export your notebooks to desired format using the following commands:<br>
 To HTML <br>
 `jupyter nbconvert --to hide_code_html notebook_to_convert.ipynb`<br>
 To PDF <br>
