@@ -1,11 +1,11 @@
 ---
 layout: post
 title: Publication ready Jupyter Notebooks
-bigimg: /img/jupyter.ppg
+bigimg: /img/jupyter.png
 image: /img/python.png
 tags: [dev, data science, jupyter, python]
 ---
-Documenting your work is an integral part of your development work but if you are someone like me and you have to share your work with different set of technical and non-technical audience. You probably go an extra mile create separate versions of the same results, one with code for your peers, and one for the business stakeholders who may find the code scary or distracting to say the least. [The Jupyter Notebook](https://jupyter.org/) makes my life so much easier for data analysis related work. Although jupyter notebook support variety of programming languages like [Julia](https://julialang.org/), [Python](python.org) and [R](https://www.r-project.org/) for live code and visualisations alongwith [Markdown](https://en.wikipedia.org/wiki/Markdown), [HTML](https://en.wikipedia.org/wiki/HTML) and others for narrative text, in this post, we will see an example with python code.
+Documenting your work is an integral part of your development but if you are someone like me and you have to share your work with different set of technical and non-technical audience, you probably go an extra mile create separate versions of the same results, one with code for your peers, and one for the business stakeholders who may find the code scary or distracting to say the least. [The Jupyter Notebook](https://jupyter.org/) makes my life so much easier for the data analysis related work. Although jupyter notebook supports a variety of programming languages like [Julia](https://julialang.org/), [Python](python.org) and [R](https://www.r-project.org/) for live code and visualisations, alongwith [Markdown](https://en.wikipedia.org/wiki/Markdown), [HTML](https://en.wikipedia.org/wiki/HTML) and others for narrative text, in this post, we will see an example with python code.
 
 ### Installing Required Packages
 Assuming you already have jupyter and python installed on your systems, you need to install the following packages additionally:
