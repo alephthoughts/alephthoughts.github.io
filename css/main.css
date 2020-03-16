@@ -66,21 +66,21 @@ hr.small {
 }
 
 ::-moz-selection {
-  color: white;
+  color: orange;
   text-shadow: none;
   background-color: {{ site.hover-col }};
 }
 ::selection {
-  color: white;
+  color: orange;
   text-shadow: none;
   background-color: {{ site.hover-col }};
 }
 img::selection {
-  color: white;
+  color: orange;
   background: transparent;
 }
 img::-moz-selection {
-  color: white;
+  color: orange;
   background: transparent;
 }
 
@@ -771,4 +771,20 @@ td.gutter {
   color: #808080;
   font-style: italic;
   font-size: 16px;
+}
+
+img[alt$=">"] {
+  float: right;
+}
+
+img[alt$="<"] {
+  float: left;
+}
+
+img[alt$="><"] {
+  display: block;
+  max-width: 100%;
+  height: auto;
+  margin: auto;
+  float: none!important;
 }
